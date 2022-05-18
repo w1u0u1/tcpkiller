@@ -2,7 +2,7 @@
 Close tcp connection like TCPView
 
 # basic
-vs2019 + net3.5 + c#
+vs2019 + net2.0 + c#
 
 # usage
 tcpkiller.exe  
