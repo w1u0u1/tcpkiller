@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpkiller", "tcpkiller\tcpkiller.csproj", "{0B071C47-F795-4B70-8E87-35017ED6E3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B071C47-F795-4B70-8E87-35017ED6E3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B071C47-F795-4B70-8E87-35017ED6E3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B071C47-F795-4B70-8E87-35017ED6E3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B071C47-F795-4B70-8E87-35017ED6E3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B038E28-DEF8-44E1-B1A3-4A3D429C94F6}
+	EndGlobalSection
+EndGlobal
